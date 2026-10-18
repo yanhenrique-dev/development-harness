@@ -1,5 +1,8 @@
 # dev-harness-skills
 
+> **Personal mirror** of [andrescevp/development-harness](https://github.com/andrescevp/development-harness).
+> `main` tracks the upstream `main`; [`feature/dh-researcher`](https://github.com/yanhenrique-dev/development-harness/pull/1) carries our research-agent proposal (upstream: [issue #3](https://github.com/andrescevp/development-harness/issues/3) · [PR #4](https://github.com/andrescevp/development-harness/pull/4)).
+
 An [OpenCode](https://opencode.ai) V2 plugin that bundles an opinionated development harness for plan-driven development with 7 agents and 16 skills.
 
 ## Features
